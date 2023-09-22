@@ -1,5 +1,3 @@
-# fdm-fabric-samples
-
 # Esplorazione della Stampante 3D Fused Deposition Modeling (FDM) per Campioni Tessili
 
 
