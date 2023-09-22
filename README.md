@@ -9,7 +9,7 @@ Tale materiale formerà un esempio concreto delle possibilità di tali tecniche 
 
 ## Risultato sperato
 Premessa: l'integrazione della stampa 3d nella creazione ed integrazione di tessuti, ha ad oggi molti anni di sperimentazione. Oggi è uno strumento largamente usato nella ricerca artistica di molti designer. <br /> 
-La ricerca mira alla creazione fisica di campionature tessili integrate alla stampa Fused Deposition Modeling. <br>
+Questa ricerca mira alla creazione fisica di campionature tessili integrate alla stampa Fused Deposition Modeling. <br>
 Il risultato della ricerca vuole fornire a tutti gli studenti un'esemplificazione visiva delle possibilità fornite dalla stampa FDM. <br /> 
 Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimentazione in chiave artistica di tali strumenti. In modo tale che possa far parte del set di possibilità espressive dello studente.
 
