@@ -14,9 +14,10 @@ Il risultato della ricerca vuole fornire a tutti gli studenti un'esemplificazion
 Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimentazione in chiave artistica di tali strumenti. In modo tale che possa far parte del set di possibilità espressive dello studente.
 
 
-## Schema macro tecniche note nella stampa FDM
+## Schema macro tecniche note nella stampa FDM (1)
 
 - Fusione tessuto intralayer
+- Intreccio trama e ordito (2)
 - Chainmail
 - gcode
 - Infill
@@ -27,6 +28,8 @@ Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimenta
 
 ## Blibliografia e risorse
 
-- https://www.youtube.com/watch?v=o1QXJWlNiv0&ab_channel=DanitPeleg
-- https://www.youtube.com/watch?v=WquJ7PEqYi8&ab_channel=FinancialTimes
-- https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
+1. https://dl.acm.org/doi/abs/10.1145/3332165.3347896
+2. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/meta
+3. https://www.youtube.com/watch?v=o1QXJWlNiv0&ab_channel=DanitPeleg
+4. https://www.youtube.com/watch?v=WquJ7PEqYi8&ab_channel=FinancialTimes
+5. https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
