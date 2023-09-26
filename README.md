@@ -4,7 +4,7 @@
 ## Abstract
 
 Questa ricerca si concentra sull'utilizzo della tecnologia di stampa 3d Fused Deposition Modelling (FDM) nel ambito del fashion design. In particolare il risultato finale della ricerca, mira alla produzione di campioni fisici che siano esemplificativi delle tecniche di produzione ad oggi esistenti. Ogni capione sarà corredato da una scheda tecnica che ne spiegherà le principali caratteristiche tecniche. <br /> 
-In oltre per ogni campione verranno documentati i processi e i tentativi non andati a buon fine. 
+Per ogni campione verranno documentati i processi e le "best-practices" per la miglior realizzazione. 
 Tale materiale formerà un esempio concreto delle possibilità di tali tecniche e una guida per la loro riproducibilità.
 
 ## Risultato sperato
