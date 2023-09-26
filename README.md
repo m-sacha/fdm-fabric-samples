@@ -1,4 +1,4 @@
-# Esplorazione della Stampante 3D Fused Deposition Modeling (FDM) per Campioni Tessili
+# Esplorazione della Stampa 3D Fused Deposition Modeling (FDM) per Campioni Tessili
 
 
 ## Abstract
