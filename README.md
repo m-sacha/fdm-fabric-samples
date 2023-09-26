@@ -1,7 +1,7 @@
 # Esplorazione della Stampa 3D Fused Deposition Modeling (FDM) per Campioni Tessili
 
 
-## Abstract
+# Abstract
 
 Questa ricerca si concentra sull'utilizzo della tecnologia di stampa 3d Fused Deposition Modelling (FDM) nella produzione tessuti o nell'integrazione di tale tecnica con tessuti esistenti. In particolare il risultato finale della ricerca, mira alla produzione di campioni fisici che siano esemplificativi delle tecniche di produzione ad oggi esistenti. Ogni campione sarà corredato da una scheda tecnica che ne spiegherà le principali caratteristiche tecniche. <br /> 
 Per ogni campione verranno documentati i processi e le "best-practices" per la miglior realizzazione. 
