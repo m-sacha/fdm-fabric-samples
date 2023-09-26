@@ -14,12 +14,12 @@ Il risultato della ricerca vuole fornire a tutti gli studenti un'esemplificazion
 Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimentazione in chiave artistica di tali strumenti. In modo tale che possa far parte del set di possibilità espressive dello studente.
 
 
-## Schema macro tecniche note nella stampa FDM (1)
+## Schema macro tecniche note nella stampa FDM (2)
 
 - Fusione tessuto intralayer
-- Intreccio trama e ordito (2)
+- Intreccio trama e ordito (1)
 - Chainmail
-- gcode
+- gcode: DefeXtiles (3)(5); scripting (4)
 - Infill
 - modelling e pattern
 
@@ -30,21 +30,24 @@ Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimenta
 
 1. https://dl.acm.org/doi/abs/10.1145/3332165.3347896
 2. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/meta
-3. https://www.youtube.com/watch?v=o1QXJWlNiv0&ab_channel=DanitPeleg
-4. https://www.youtube.com/watch?v=WquJ7PEqYi8&ab_channel=FinancialTimes
-5. https://www.n41.com/the-rise-of-3d-printing-in-fashion/
-6. http://jrnl.knutd.edu.ua/index.php/fti/article/view/699
-7. https://dl.acm.org/doi/abs/10.1145/2807442.2807484
-8. https://dl.acm.org/doi/10.1145/3544549.3585854
-9. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/pdf
-10. https://dl.acm.org/doi/abs/10.1145/3332165.3347896#sec-cit
-11. https://www.youtube.com/watch?v=JpykcHoEYGA&ab_channel=AdamSavage%E2%80%99sTested
-12. https://www.chiaragiusti.com/techne
-13. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/20220125_113044_02-scaled.jpg?resize=960%2C1280&quality=99&ssl=1
-14. https://www.sciencedirect.com/science/article/pii/S2095809916300716#bib2
-15. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/6-scaled.jpg?resize=960%2C1242&quality=99&ssl=1
-16. https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
-17. https://etd.auburn.edu/bitstream/handle/10415/6711/Tianyu%20Cui_dissertation_2019_final.pdf?sequence=2&isAllowed=y
+3. https://dl.acm.org/doi/10.1145/3379337.3415876
+4. https://www.fabrix.design/
+5. https://www.media.mit.edu/projects/defextiles/overview/
+6. https://www.youtube.com/watch?v=o1QXJWlNiv0&ab_channel=DanitPeleg
+7. https://www.youtube.com/watch?v=WquJ7PEqYi8&ab_channel=FinancialTimes
+8. https://www.n41.com/the-rise-of-3d-printing-in-fashion/
+9. http://jrnl.knutd.edu.ua/index.php/fti/article/view/699
+10. https://dl.acm.org/doi/abs/10.1145/2807442.2807484
+11. https://dl.acm.org/doi/10.1145/3544549.3585854
+12. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/pdf
+13. https://dl.acm.org/doi/abs/10.1145/3332165.3347896#sec-cit
+14. https://www.youtube.com/watch?v=JpykcHoEYGA&ab_channel=AdamSavage%E2%80%99sTested
+15. https://www.chiaragiusti.com/techne
+16. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/20220125_113044_02-scaled.jpg?resize=960%2C1280&quality=99&ssl=1
+17. https://www.sciencedirect.com/science/article/pii/S2095809916300716#bib2
+18. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/6-scaled.jpg?resize=960%2C1242&quality=99&ssl=1
+19. https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
+20. https://etd.auburn.edu/bitstream/handle/10415/6711/Tianyu%20Cui_dissertation_2019_final.pdf?sequence=2&isAllowed=y
 
 // da vedere
 https://www.emerald.com/insight/content/doi/10.1108/RJTA-05-2022-0058/full/html
