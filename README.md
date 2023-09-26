@@ -19,7 +19,9 @@ Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimenta
 - Fusione tessuto intralayer
 - Intreccio trama e ordito (1)
 - Chainmail
-- gcode: DefeXtiles (3)(5); scripting (4)
+- Gcode
+  - DefeXtiles (3)(5)
+  - Scripting (4)
 - Infill
 - modelling e pattern
 
