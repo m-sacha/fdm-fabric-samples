@@ -8,10 +8,10 @@ In oltre per ogni campione verranno documentati i processi e i tentativi non and
 Tale materiale formerà un esempio concreto delle possibilità di tali tecniche e una guida per la loro riproducibilità.
 
 ## Risultato sperato
-Premessa: l'integrazione della stampa 3d nella creazione ed integrazione di tessuti, ha ad oggi molti anni di sperimentazione. Già dal 2010 gli stilisti si approcciano a questo strumento e lo integrano nelle loro collezioni (Crystallization by Iris van Herpen, Daniel Widrig and .MGX by Materialise Spring/Summer 2010 collection). Oggi la stampa 3d è uno strumento consolidato nella ricerca artistica di molti artisti. <br /> 
-Questa ricerca è finalizzata alla creazione fisica di campionature tessili integrate alla stampa Fused Deposition Modeling (FDM) associati ognuno ad una scheda tecnica. <br>
+Premessa: l'integrazione della stampa 3d nella creazione ed integrazione di tessuti, ha ad oggi molti anni di sperimentazione. Già dal 2010 gli stilisti si sono approcciati a questo strumento e lo hanno integrato nelle loro collezioni (Crystallization by Iris van Herpen, Daniel Widrig and .MGX by Materialise Spring/Summer 2010 collection). Oggi la stampa 3d è uno strumento consolidato nella ricerca di molti artisti e designer. <br /> 
+Questa ricerca è finalizzata alla creazione fisica di campionature tessili integrate alla stampa Fused Deposition Modeling (FDM), associate ognuno ad una scheda tecnica. <br>
 Il risultato della ricerca vuole fornire a tutti gli studenti un'esemplificazione visiva delle possibilità fornite dalla stampa FDM. <br /> 
-Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimentazione in chiave artistica di tali strumenti. In modo tale che possa far parte del set di possibilità espressive dello studente.
+Vuole fornire in oltre una solida guida metodologica e tecnica per la realizzazione di tali materiali e per la sperimentazione in chiave artistica di tali tecniche. In modo tale che possa far parte del set di possibilità espressive dello studente in molti campi di applicazione: design del prodotto, fashion design, fiberart in particolare e per la ricerca artistica in generale. 
 
 
 ## Schema macro tecniche note nella stampa FDM (2)
