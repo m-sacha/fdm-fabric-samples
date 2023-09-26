@@ -32,4 +32,15 @@ Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimenta
 2. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/meta
 3. https://www.youtube.com/watch?v=o1QXJWlNiv0&ab_channel=DanitPeleg
 4. https://www.youtube.com/watch?v=WquJ7PEqYi8&ab_channel=FinancialTimes
-5. https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
+5. https://www.n41.com/the-rise-of-3d-printing-in-fashion/
+6. http://jrnl.knutd.edu.ua/index.php/fti/article/view/699
+7. https://dl.acm.org/doi/abs/10.1145/2807442.2807484
+8. https://dl.acm.org/doi/10.1145/3544549.3585854
+9. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/pdf
+10. https://dl.acm.org/doi/abs/10.1145/3332165.3347896#sec-cit
+11. https://www.youtube.com/watch?v=JpykcHoEYGA&ab_channel=AdamSavage%E2%80%99sTested
+12. https://www.chiaragiusti.com/techne
+13. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/20220125_113044_02-scaled.jpg?resize=960%2C1280&quality=99&ssl=1
+14. https://www.sciencedirect.com/science/article/pii/S2095809916300716#bib2
+15. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/6-scaled.jpg?resize=960%2C1242&quality=99&ssl=1
+16. https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
