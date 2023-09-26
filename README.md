@@ -44,3 +44,4 @@ Vuole fornire in oltre una solida guida metodologica e tecnica per la sperimenta
 14. https://www.sciencedirect.com/science/article/pii/S2095809916300716#bib2
 15. https://i0.wp.com/superforma.xyz/wp-content/uploads/2022/08/6-scaled.jpg?resize=960%2C1242&quality=99&ssl=1
 16. https://www.core77.com/posts/109948/DefeXtiles-Sustainable-3D-Printed-Fabric-Has-the-Potential-to-Revolutionize-Textiles
+17. https://etd.auburn.edu/bitstream/handle/10415/6711/Tianyu%20Cui_dissertation_2019_final.pdf?sequence=2&isAllowed=y
