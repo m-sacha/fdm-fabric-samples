@@ -53,7 +53,13 @@ In modo tale che, l'utilizzo di tali tessuti, possa far parte del set di possibi
   title="Optional title" 
   style="display: inline-block; margin: 0 auto; max-height: 300px">
 
-https://github.com/m-sacha/fdm-fabric-samples/blob/main/img/5.mp4
+https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/af796a1d-989c-4cbf-948f-37eccace9cba
+
+https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/fabb14a0-733e-409a-bea5-d89dcbf5760c
+
+
+
+
 
 
 ## Blibliografia e risorse
