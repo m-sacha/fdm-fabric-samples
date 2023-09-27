@@ -36,9 +36,9 @@ In modo tale che, l'utilizzo di tali tessuti, possa far parte del set di possibi
 ## Test e studi preliminari
 
 <img
-  src="/img/1.jpg"
-  alt="Alt text"
-  title="Optional title"
+  src="/img/1.jpg" 
+  alt="Alt text" 
+  title="Optional title" 
   style="display: inline-block; margin: 0 auto; max-height: 300px">
 
 
