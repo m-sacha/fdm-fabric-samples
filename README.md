@@ -33,8 +33,13 @@ In modo tale che, l'utilizzo di tali tessuti, possa far parte del set di possibi
 - Tessuti
 
 
-# Test e studi preliminari
+## Test e studi preliminari
 
+<img
+  src="/img/1.jpg"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-height: 300px">
 
 
 ## Blibliografia e risorse
