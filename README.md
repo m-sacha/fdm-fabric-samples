@@ -41,6 +41,20 @@ In modo tale che, l'utilizzo di tali tessuti, possa far parte del set di possibi
   title="Optional title" 
   style="display: inline-block; margin: 0 auto; max-height: 300px">
 
+  <img
+  src="/img/2.jpg" 
+  alt="Alt text" 
+  title="Optional title" 
+  style="display: inline-block; margin: 0 auto; max-height: 300px">
+
+  <img
+  src="/img/3.jpg" 
+  alt="Alt text" 
+  title="Optional title" 
+  style="display: inline-block; margin: 0 auto; max-height: 300px">
+
+
+
 
 ## Blibliografia e risorse
 
