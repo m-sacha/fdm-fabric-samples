@@ -2,7 +2,7 @@
 
 ## Abstract
 L'impiego della stampa 3d nella creazione tessuti ha ad oggi molti anni di sperimentazione. Già dal 2010 stilisti, designer e artisti si sono approcciati a questo strumento e lo hanno integrato nelle loro ricerche (un esempio su tutti: Crystallization by Iris van Herpen, Daniel Widrig and .MGX by Materialise Spring/Summer 2010 collection).
-Questa ricerca si concentra sull'utilizzo della tecnologia di stampa 3d Fused Deposition Modelling (FDM) nella produzione tessuti o nell'integrazione di tale tecnica in tessuti esistenti. In particolare il risultato finale della ricerca, mira alla produzione di campioni fisici che siano esemplificativi delle tecniche di produzione ad oggi esistenti.
+Questa ricerca vuole concentrarsi sull'utilizzo della tecnologia di stampa 3d Fused Deposition Modelling (FDM) nella produzione tessuti o nell'integrazione di tale tecnica in tessuti esistenti. In particolare il risultato finale della ricerca, mira alla produzione di campioni fisici che siano esemplificativi delle tecniche di produzione ad oggi esistenti.
 <br /> 
 Per ogni campione verranno documentati i processi e le "best-practices" per la miglior realizzazione. 
 Tale materiale formerà un esempio concreto delle possibilità di tali tecniche e una guida per la loro riproducibilità.
