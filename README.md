@@ -66,7 +66,7 @@ Immagini e video che seguono fanno parte di uno studio attualmente in corso per 
   style="display: inline-block; margin: 0 auto; max-height: 300px">
 
   <img
-  src="/img/WhatsApp Image 2023-09-29 at 10.21.35.jpeg.jpg" 
+  src="/img/WhatsApp Image 2023-09-29 at 10.21.35.jpeg" 
   alt="Alt text" 
   title="Optional title" 
   style="display: inline-block; margin: 0 auto; max-height: 300px">
