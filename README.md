@@ -3,17 +3,14 @@
 ## Abstract
 L'impiego della stampa 3d nella creazione tessuti ha ad oggi molti anni di sperimentazione. Già dal 2010 stilisti, designer e artisti si sono approcciati a questo strumento e lo hanno integrato nelle loro ricerche (un esempio su tutti: Crystallization by Iris van Herpen, Daniel Widrig and .MGX by Materialise Spring/Summer 2010 collection).
 Questa ricerca si concentra sull'utilizzo della tecnologia di stampa 3d Fused Deposition Modelling (FDM) nella produzione tessuti o nell'integrazione di tale tecnica in tessuti esistenti. In particolare il risultato finale della ricerca, mira alla produzione di campioni fisici che siano esemplificativi delle tecniche di produzione ad oggi esistenti.
-Ogni campione è corredato da una scheda tecnica che ne spiega le principali caratteristiche tecniche. <br /> 
+<br /> 
 Per ogni campione verranno documentati i processi e le "best-practices" per la miglior realizzazione. 
 Tale materiale formerà un esempio concreto delle possibilità di tali tecniche e una guida per la loro riproducibilità.
 
 ## Risultato atteso
 Questa ricerca è finalizzata alla creazione fisica di campionature tessili integrate alla stampa Fused Deposition Modeling (FDM) e da campioni di tessuto stampato.
-Il risultato della ricerca vuole fornire a tutti gli studenti un esempio visivo e tangibile delle possibilità fornite da tale tecnica. 
+Il risultato atteso è poter fornire a tutti gli studenti un esempio visivo e tangibile delle possibilità fornite da tale tecnica. 
 Una guida metodologica e tecnica per la realizzazione di tali materiali anffinchè l'utilizzo di tali tessuti possa far parte del set di possibilità espressive dello studente in molti campi di applicazione: design del prodotto, fashion design, fiberart in particolare e per la ricerca artistica in generale.
-
-## Cronoprogramma delle attività
-L'attività è integrabile nella programmazione didattica in due diversi Durante il corso di Tecniche di modellazione 3d verrà proposto sotto forma di esercizio la creazione di un pattern. I modelli prodotti saranno utilizzati 
 
 ## Schema macro tecniche note nella stampa FDM (2)
 
@@ -54,10 +51,33 @@ L'attività è integrabile nella programmazione didattica in due diversi Durante
   title="Optional title" 
   style="display: inline-block; margin: 0 auto; max-height: 300px">
 
+  <img
+  src="/img/WhatsApp Image 2023-09-22 at 10.34.59.jpeg" 
+  alt="Alt text" 
+  title="Optional title" 
+  style="display: inline-block; margin: 0 auto; max-height: 300px">
+
+  <img
+  src="/img/WhatsApp Image 2023-09-29 at 10.21.35 (1).jpeg" 
+  alt="Alt text" 
+  title="Optional title" 
+  style="display: inline-block; margin: 0 auto; max-height: 300px">
+
+  <img
+  src="/img/WhatsApp Image 2023-09-29 at 10.21.35.jpeg.jpg" 
+  alt="Alt text" 
+  title="Optional title" 
+  style="display: inline-block; margin: 0 auto; max-height: 300px">
+  
+
 https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/af796a1d-989c-4cbf-948f-37eccace9cba
 
 https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/fabb14a0-733e-409a-bea5-d89dcbf5760c
 
+
+
+https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/d4940edd-f87e-4e0d-9013-a6a51ddd59e5
+Crediti: Progettazione e cucitura Stefania Bianchini
 
 
 
