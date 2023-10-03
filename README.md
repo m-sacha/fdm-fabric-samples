@@ -34,7 +34,7 @@ Una guida metodologica e tecnica per la realizzazione di tali materiali anffinch
 
 ## Test e studi preliminari
 
-Immagini e video che seguono fanno parte di uno studio attualmente in corso per la tesi di laurea della studentessa laureanda Stefania Bianchini.
+Immagini e video che seguono fanno parte di uno studio preliminare attualmente in corso per la tesi di laurea della studentessa laureanda Stefania Bianchini.
 
 <img
   src="/img/1.jpg" 
