@@ -65,12 +65,22 @@ Immagini e video che seguono fanno parte di uno studio preliminare attualmente i
   style="display: inline-block; margin: 0 auto; max-height: 300px">
   
 
-https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/af796a1d-989c-4cbf-948f-37eccace9cba
-
-https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/fabb14a0-733e-409a-bea5-d89dcbf5760c
 
 
-https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/d4940edd-f87e-4e0d-9013-a6a51ddd59e5
+https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/61ba6f22-c19b-466a-8642-18f203ae05ba
+
+
+
+https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/0a7d8540-8bc8-4697-b825-e8ca98dd8dcf
+
+
+
+https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/edc9f3ef-f62a-499c-986f-40da59e547e4
+
+
+
+
+
 
 
 
