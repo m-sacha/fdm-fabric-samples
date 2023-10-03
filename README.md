@@ -24,14 +24,6 @@ Una guida metodologica e tecnica per la realizzazione di tali materiali anffinch
 - modelling e pattern
 - Tessuti integrati a circuiti
 
-## Metodo
-
-## Costi previsti
-- Telai
-- Materiale
-- Tessuti
-
-
 ## Test e studi preliminari
 
 Immagini e video che seguono fanno parte di uno studio preliminare attualmente in corso per la tesi di laurea della studentessa laureanda Stefania Bianchini.
@@ -83,10 +75,9 @@ https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/d4940edd-f87e-4e0d
 
 
 
-
-
-
 ## Blibliografia e risorse
+
+Bibliografia in fase di compilazione.
 
 1. https://dl.acm.org/doi/abs/10.1145/3332165.3347896
 2. https://iopscience.iop.org/article/10.1088/1757-899X/62/1/012018/meta
