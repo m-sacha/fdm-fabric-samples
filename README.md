@@ -75,8 +75,8 @@ https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/af796a1d-989c-4cbf
 https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/fabb14a0-733e-409a-bea5-d89dcbf5760c
 
 
-
 https://github.com/m-sacha/fdm-fabric-samples/assets/81370935/d4940edd-f87e-4e0d-9013-a6a51ddd59e5
+
 Crediti: Progettazione e cucitura Stefania Bianchini
 
 
