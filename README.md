@@ -10,7 +10,7 @@ Tale materiale formerà un esempio concreto delle possibilità di tali tecniche 
 ## Risultato atteso
 Questa ricerca è finalizzata alla creazione fisica di campionature tessili integrate alla stampa Fused Deposition Modeling (FDM) e da campioni di tessuto stampato.
 Il risultato atteso è poter fornire agli studenti interessati un esempio visivo e tangibile delle possibilità fornite da tale tecnica. 
-Una guida metodologica e tecnica per la realizzazione di tali materiali anffinchè l'utilizzo di tali tessuti possa far parte del set di possibilità espressive dello studente in molti campi di applicazione: design del prodotto, fashion design, fiberart in particolare e per la ricerca artistica in generale.
+Una guida metodologica e tecnica per la realizzazione di tali materiali anffinchè il loro utilizzo possa far parte del set di possibilità espressive dello studente in molti campi di applicazione: design del prodotto, fashion design, fiberart in particolare e per la ricerca artistica in generale.
 
 ## Schema macro tecniche note nella stampa FDM (2)
 
